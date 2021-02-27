@@ -1,0 +1,134 @@
+body {
+        margin: 0px;
+         font-family: Jua;
+       
+}
+@font-face {
+                src: url("font/BMJUA_ttf.ttf");
+                font-family: Jua;
+        }
+.home {
+        margin: 0px;
+        height: 60px;
+
+
+}
+.home p {
+        display: inline-block;
+        font-size: 30px;
+        line-height: 60px;
+        float: left;
+        vertical-align: middle;
+        margin: 0px;
+        font-weight: bold;
+        margin-left: 30px;
+
+}
+.home p a {
+        text-decoration: none;
+        color: black;
+}
+.background {
+        background-image: url(image/background_image.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+        height: 684px;
+
+}
+.background p {
+        color: white;
+        float: left;
+}
+.background h1 {
+        color: white;
+        text-align: center;
+        margin-top: 0px;
+        font-size: 50px;
+        padding-top: 30px;
+       
+}
+
+#first_list {
+     margin: 0px;
+      
+      height: 60px;
+}
+
+#first_list li {
+        display: inline-block;
+        list-style: none;
+        margin-right: 30px;
+        font-size: 30px;
+        vertical-align: middle;
+        line-height: 60px;
+        float: right;
+        font-weight: bold;
+      
+}
+#first_list li a {
+        text-decoration: none;
+        color: black;
+}
+
+.ani_background {
+        background-image: url(image/animation_image.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+        height: 300px;
+
+        margin-bottom: 200px;
+}
+.animation_list {
+        
+        border: 3px solid black;
+        border-radius: 10px;
+        width: 200px;
+        display: block;
+        float: left;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 80px;
+        padding: 0px;
+
+
+
+}
+.animation_list img {
+        width: 200px;
+        height: auto;
+
+}
+.animation_list p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+        font-weight: bold;
+
+}
+.animation_list p a {
+        text-decoration: none;
+        color: #545454;
+        margin: 0px;
+}
+.animation_list img {
+        width: 200px;
+        height: 250px;
+}
+
+#recom_list {
+        text-align: center;
+        padding: 0;
+        margin-bottom: 50px;
+
+}
+#list {
+        width: 738px;
+        margin-right: auto;
+        margin-left: auto;
+}
